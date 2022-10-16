@@ -1,5 +1,9 @@
-Hello people! I'm F�bio. Welcome!
+Hello people! I'm Fábio. Welcome!
 
 Commit iniciada com sucesso e atualizada no github. 
 
-Vamos para a pr�xima etapa! 
+Vamos para a próxima etapa!
+
+Foi criada a branch "develop"
+
+Foi adicionado o arquivo "Exercícios_ senhas + cálculo.ipynb"
